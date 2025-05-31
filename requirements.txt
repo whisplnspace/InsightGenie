@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+pandas
+docx
+PyMuPDF
+pytesseract
+Pillow
+requests
+matplotlib
+seaborn
+google-generativeai
