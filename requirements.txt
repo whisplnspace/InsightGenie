@@ -9,3 +9,4 @@ requests
 matplotlib
 seaborn
 google-generativeai
+python-docx
